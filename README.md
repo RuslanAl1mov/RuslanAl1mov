@@ -14,11 +14,10 @@ I hate JavaScript💀 and at the same time I now it!
   <h3 align="center" align="left">Contact me</h3>
   <p align="center">
     <a href="https://t.me/Goodchoice382" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-%234267A1.svg?logo=telegram&logoColor=white" height="48"/></a>
-    <a href="linkedin.com/in/ruslan-alimov-1b0281253" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="48"/></a>
+    <a href="https://linkedin.com/in/ruslan-alimov-1b0281253/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="48"/></a>
     <a href="mailto:arlimuniversal@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-%23333.svg?style=for-the-badge&logo=gmail&logoColor=white" height="48"/></a>
   </p>
 </div>
-
 <div align="center">
   <h3 align="center">Статистика:</h3>
    <div align="center" >
