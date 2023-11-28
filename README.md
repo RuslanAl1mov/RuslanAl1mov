@@ -19,7 +19,7 @@ I hate JavaScript💀 and at the same time I now it!
   </p>
 </div>
 <div align="center">
-  <h3 align="center">Статистика:</h3>
+  <h3 align="center">Statistics:</h3>
    <div align="center" >
      <img width="22%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RuslanAl1mov&theme=cobalt" />
      <img width="22%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RuslanAl1mov&theme=cobalt" />
