@@ -8,7 +8,7 @@
 I'm a backend developer from Uzbekistan, working at [SIUT](https://siut.uz) 
 
 I'm interested in web development, desktop development and Internet scrapping.  
-I hate JavaScript💀 and at the same time I now it!
+I hate JavaScript💀 and at the same time I now it! 
 
 #
 
