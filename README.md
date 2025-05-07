@@ -5,7 +5,7 @@
 </p>
 
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-I'm a backend developer from Uzbekistan, working at [SIUT](https://siut.uz) 
+I'm a FullStack developer 
 
 I'm interested in web development, desktop development and Internet scrapping.  
 I hate JavaScript💀 and at the same time I now it! 
